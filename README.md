@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ronaldo Santos</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+<p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kenowlee"></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenowlee&label=Profile%20views&color=0e75b6&style=flat" alt="kenowlee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenowlee" alt="kenowlee" /></a> </p>
