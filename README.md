@@ -33,3 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenowlee&" alt="kenowlee" /></p>
 
 <p>![Snake animation](https://github.com/kenowlee/kenowlee/blob/output/github-contribution-grid-snake.svg)</p>
+![Snake animation](https://github.com/kenowlee/blob/output/github-contribution-grid-snake.svg)
