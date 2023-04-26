@@ -31,6 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenowlee&show_icons=true&locale=en" alt="kenowlee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenowlee&" alt="kenowlee" /></p>
-
-<p>![Snake animation](https://github.com/kenowlee/kenowlee/blob/output/github-contribution-grid-snake.svg)</p>
-![Snake animation](https://github.com/kenowlee/blob/output/github-contribution-grid-snake.svg)
