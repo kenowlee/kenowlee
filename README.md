@@ -1,33 +1,115 @@
-<h1 align="center">Hi 👋, I'm Ronaldo Santos</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+# Ronaldo Santos
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenowlee&label=Profile%20views&color=0e75b6&style=flat" alt="kenowlee" /> </p>
+**Senior Backend Engineer · Software Architecture · AI Engineering**
 
-<a href="https://wakatime.com/@b8fdfb2b-e23f-4e04-bd04-4fb435be55a2"><img src="https://wakatime.com/badge/user/b8fdfb2b-e23f-4e04-bd04-4fb435be55a2.svg" alt="Total time coded since Nov 22 2016" /></a>
+Brasil · Remoto
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenowlee&margin-w=15" alt="kenowlee" /></a> </p>
+Construo sistemas backend, integro arquiteturas complexas e venho aprofundando meu trabalho em **AI Engineering**, explorando como agentes, contexto, ferramentas e modelos podem fazer parte de processos de engenharia de software mais confiáveis.
 
-------
+Minha trajetória passa por sistemas corporativos, governo, saúde, telecom, fintech, integrações, performance, modernização de legado e, mais recentemente, aplicações e ferramentas orientadas por IA.
 
-<p align="left"> <a href="https://twitter.com/ronaldobill" target="blank"><img src="https://img.shields.io/twitter/follow/ronaldobill?logo=twitter&style=for-the-badge" alt="ronaldobill" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kenowlee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kenowlee" height="30" width="40" /></a>
-<a href="https://twitter.com/ronaldobill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronaldobill" height="30" width="40" /></a>
-<a href="https://medium.com/@kenowlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kenowlee" height="30" width="40" /></a>
-</p>
-<div>
-<img height="700em" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenowlee&layout=compact"/></div>
-<div>
+## Foco atual
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenowlee&show_icons=true&theme=flat&include_all_commits=true&count_private=true"/>
-</div>
+Hoje estou especialmente interessado em:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenowlee&" alt="kenowlee" /></p>
+- **AI Engineering** — agentes, tool calling, structured output, context engineering e model routing
+- **MCP e integrações** — conectando LLMs a ferramentas, APIs e sistemas reais
+- **RAG e recuperação de contexto** — tornando conhecimento útil para aplicações e agentes
+- **Evals** — criando formas mais confiáveis de medir comportamento e qualidade
+- **Spec-Driven Development** — usando especificação, planejamento e revisão como parte do fluxo assistido por IA
+- **Arquitetura de software** — mantendo segurança, rastreabilidade e controle humano em sistemas cada vez mais automatizados
 
+---
 
-------
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) [Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-------
+## Projetos e frentes recentes
+
+### AI-Kit
+**Agentic Software Engineering Toolkit**
+
+Projeto em evolução voltado à criação de fluxos controlados para engenharia de software assistida por agentes, com conceitos como:
+
+`Orchestrator` · `Executor` · `Reviewer` · `Model Routing` · `Context` · `Tracing` · `Recovery` · `Human Gates`
+
+> Status: **Private Beta / Em desenvolvimento**
+
+### Mapa Vivo
+**AI-assisted Codebase Intelligence**
+
+Ferramenta criada para transformar codebases em contexto técnico estruturado, auxiliando investigação, documentação, entendimento arquitetural e análise assistida por IA.
+
+`Python` · `Typer` · `Rich` · `OpenAI` · `Code Intelligence` · `Context Engineering`
+
+### Engenharia em ambientes enterprise
+
+Atuação recente em sistemas corporativos envolvendo **RBAC, integrações, automação, deploy controlado, observabilidade, AWS, Oracle, PostgreSQL, Airflow e modernização incremental de legado**.
+
+A IA entra nesse contexto como parte do processo de engenharia — não como substituto de arquitetura, revisão ou decisão humana.
+
+---
+
+## Experiência técnica
+
+### Backend
+
+`PHP` · `Laravel` · `Node.js` · `Python` · `Flask` · `REST APIs`
+
+### Dados e mensageria
+
+`PostgreSQL` · `Oracle` · `MongoDB` · `Redis` · `Elasticsearch` · `RabbitMQ`
+
+### Cloud & DevOps
+
+`AWS` · `Docker` · `Linux` · `GitHub Actions` · `CI/CD`
+
+### AI Engineering
+
+`LLMs` · `Agents` · `MCP` · `RAG` · `Evals` · `Tool Calling` · `Structured Output` · `Context Engineering`
+
+---
+
+## Como eu gosto de trabalhar
+
+```text
+Problema
+   ↓
+Investigação
+   ↓
+Especificação
+   ↓
+Plano
+   ↓
+Implementação
+   ↓
+Revisão
+   ↓
+Testes / Evals
+   ↓
+Decisão humana
+   ↓
+Deploy
+```
+
+Tenho interesse particular em descobrir **como a IA pode acelerar esse fluxo sem eliminar disciplina de engenharia, segurança, revisão e responsabilidade técnica**.
+
+---
+
+## Alguns domínios em que já trabalhei
+
+`GovTech` · `Saúde` · `Telecom` · `Fintech` · `E-commerce` · `Seguros` · `Educação` · `Sistemas Enterprise`
+
+---
+
+## Vamos conversar
+
+Estou aberto a **oportunidades, projetos e parcerias** envolvendo backend, arquitetura de software e AI Engineering.
+
+- [LinkedIn](https://www.linkedin.com/in/ronaldo-ns/)
+- [GitHub](https://github.com/kenowlee)
+- [E-mail](mailto:ronaldo.nasa@gmail.com)
+
+---
+
+> **Backend → Software Architecture → AI Engineering**  
+> Evoluindo a forma de construir software sem perder a base que torna sistemas confiáveis.
