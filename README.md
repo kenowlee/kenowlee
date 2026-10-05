@@ -8,6 +8,8 @@ Construo sistemas backend, integro arquiteturas complexas e venho aprofundando m
 
 Minha trajetória passa por sistemas corporativos, governo, saúde, telecom, fintech, integrações, performance, modernização de legado e, mais recentemente, aplicações e ferramentas orientadas por IA.
 
+🌐 **Portfólio:** [ronaldo-portfolio.ronaldo-nasa.workers.dev](https://ronaldo-portfolio.ronaldo-nasa.workers.dev/)
+
 ---
 
 ## Foco atual
